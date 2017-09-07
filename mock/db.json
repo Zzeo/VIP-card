@@ -1,0 +1,24 @@
+{
+	"get":[
+		{
+			"name": "zhou",
+			"age": 34,
+			"gender": "male"
+		},
+		{
+			"name": "chen",
+			"age": 14,
+			"gender": "male"
+		},
+		{
+			"name": "tang",
+			"age": 23,
+			"gender": "female"
+		},
+		{
+			"name": "jin",
+			"age": 36,
+			"gender": "male"
+		}
+	]
+}
